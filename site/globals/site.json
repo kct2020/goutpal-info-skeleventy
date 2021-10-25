@@ -1,9 +1,9 @@
 {
-    "name": "Skeleventy",
-    "url": "https://skeleventy.netlify.app",
+    "name": "GoutPal's Gout Library",
+    "url": "https://goutpal.info",
     "author": {
-        "name": "Mill Burray",
-        "handle": "@joe_dyer1"
+        "name": "Keith Taylor",
+        "handle": "@keithtaylor"
     },
     "images": {
         "favicon": "/favicon.png",
@@ -13,7 +13,7 @@
         "og": "/images/meta/og.jpg"
     },
     "social_links": {
-        "github": "https://github.com/josephdyer/skeleventy",
-        "twitter": "https://twitter.com/joe_dyer1"
+        "github": "https://github.com/kct2020/goutpal-info-11ty",
+        "twitter": "https://twitter.com/keithtaylor"
     }
 }

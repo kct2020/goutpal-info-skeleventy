@@ -1,13 +1,13 @@
 ---
 layout: blog
-meta_title: Blog
-meta_description: The Skeleventy blog - a place to voice our useless opinions.
+meta_title: Gout & Uric Acid Science Blog
+meta_description: GoutPal's Gout & Uric Acid Science blog. A place to learn the science of gouty arthritis.
 hide_from_sitemap: true
-robots: noindex,follow
-title: The blog
+robots: index,follow
+title: Gout & Uric Acid Science Blog
 eleventyNavigation:
   key: Blog
   order: 3
 ---
 
-A place to voice our useless opinions.
+A place to learn the science of gouty arthritis.

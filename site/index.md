@@ -4,13 +4,14 @@ meta_title: Home
 meta_description: GoutPal's Gout Library explains science-based facts about uric acid and gouty arthritis.
 title: GoutPal's Gout Library Home Page
 sub_heading: GoutPal's Gout Library Introduction to the science of Gouty Arthritis.
-post_image: images/gout-library-banner.webp
-image_alt: GoutPal's Gout Library by Keith Taylor
 eleventyNavigation:
   key: Home
   order: 1
 ---
-
+<figure>
+<img src="images/gout-library-banner.webp" alt="WordPress Transmigration Experts"  width="610" height="377">
+  <figcaption>GoutPal's Gout Library by Keith Taylor</figcaption>
+</figure>
 ## GoutPal's Gout Library Status
 
 I'm transitioning GoutPal's Gout Library to a new platform. So currently you can browse the <a href="/goutpal-info-wp-2020">old blog</a>. Or read the <a href="/blog">latest gout science blog</a>.

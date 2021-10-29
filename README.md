@@ -1,6 +1,11 @@
 # GoutPal.info In Progress
 
-##1st Config
+##211029 Import WP
+- Download zip to new site/wp folder
+- extract zip
+- eleventy.config.js config.addPassthroughCopy({ "site/wp/": "/" })
+
+##211025 1st Config
 - This readme project note
 - site/globals/site.json
 

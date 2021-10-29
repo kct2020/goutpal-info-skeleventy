@@ -8,8 +8,8 @@ eleventyNavigation:
   key: Home
   order: 1
 ---
-<figure>
-<img src="images/gout-library-banner.webp" alt="WordPress Transmigration Experts"  width="610" height="377">
+<figure class="inner">
+<img src="images/gout-library-banner-white.webp" alt="WordPress Transmigration Experts"  width="610" height="377">
   <figcaption>GoutPal's Gout Library by Keith Taylor</figcaption>
 </figure>
 ## GoutPal's Gout Library Status

@@ -15,7 +15,7 @@
   "devDependencies": {
     "@11ty/eleventy": "^0.11.1",
     "@11ty/eleventy-navigation": "^0.1.6",
-    "gorko": "^0.2.3",
+    "gorko": "0.8.0",
     "html-minifier": "^4.0.0",
     "laravel-mix": "^6.0.11",
     "laravel-mix-purgecss": "^6.0.0",

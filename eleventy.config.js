@@ -73,6 +73,7 @@ module.exports = config => {
     config.addPassthroughCopy('images')
     config.addPassthroughCopy('favicon.png')
     config.addPassthroughCopy('favicon.svg')
+    config.addPassthroughCopy({ "wp/": "/" })
 
     return {
         markdownTemplateEngine: 'njk',

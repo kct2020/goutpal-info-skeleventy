@@ -15,6 +15,13 @@ I want a clean front page offering old or new blogs for now. Then do better intr
 - site/includes/components/nav.njk: Changed skeleventy link to WP version of About Page 
 - site/index.md: rewritten.
 - site/includes/components/footer.njk: Added current footer links. But these need updating as new admin pages are created. Should also include a feedback link direct to issues.
+- site/includes/components/footer.njk: Add disclaimer
+- Change favicon.icon (root) & images/meta/apple-touch-icon.png. 
+- Remove svg from...
+  - site/includes/layouts/base.njk
+  - site/globals/site.json
+  - favicon.svg
+- try again with background image - changing css/main.css and css/main.min.css which seem identical. Need to learn the 'right' way to edit css in this template!
 
 ##211029a Import WP
 - Download zip to new wp folder

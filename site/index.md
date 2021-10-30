@@ -1,41 +1,19 @@
 ---
 layout: home
 meta_title: Home
-meta_description: Skeleventy gives you a rock solid foundation to build fast and accessible static websites.
-title: An Eleventy starter skeleton
-sub_heading: Skeleventy gives you a rock solid foundation to build fast and accessible static websites.
+meta_description: GoutPal's Gout Library explains science-based facts about uric acid and gouty arthritis.
+title: GoutPal's Gout Library Home Page
+sub_heading: GoutPal's Gout Library Introduction to the science of Gouty Arthritis.
 eleventyNavigation:
   key: Home
   order: 1
 ---
+<figure class="inner">
+<img src="images/gout-library-banner-white.webp" alt="WordPress Transmigration Experts"  width="610" height="377">
+  <figcaption>GoutPal's Gout Library by Keith Taylor</figcaption>
+</figure>
+## GoutPal's Gout Library Status
 
-## Features
+I'm transitioning GoutPal's Gout Library to a new platform. So currently you can browse the <a href="/goutpal-info-wp-2020">old blog</a>. Or read the <a href="/blog">latest gout science blog</a>.
 
-- Clean, understated design - a good starting point for a portfolio or blog
-- A minimal build pipeline with [Laravel Mix](https://laravel-mix.com/docs/5.0/basic-example)
-- [Gorko](https://github.com/hankchizljaw/gorko), a smart little Sass-powered utility class generator
-- [Purgecss](https://purgecss.com/) to remove unused CSS
-- HTML minifier
-- Supports ES2017 JavaScript, with Babel compilation
-- SEO friendly page meta, including Open Graph and Twitter
-- Image lazy loading
-- Responsive navigation
-- XML Sitemap
-
-## Getting started
-
-### Prerequisites
-Node `v10+`
-
-### Installation
-
-1. Clone the repo `git clone https://github.com/josephdyer/skeleventy.git`
-2. `cd` into the project folder and run `npm install`
-3. Start the local development server by running `npm run dev` **Tip:** _Eleventy has live reload baked in!_
-
-## Ready to deploy?
-
-The ```npm run production``` command will remove any unused CSS with Purgecss and minify the CSS and JS files.
-
-I highly recommend using [Netlify](https://www.netlify.com) to host your site on, so I've included a ```netlify.toml``` configuration file for your convenience.
-
+Please note that the <a href="https://cse.google.com/cse?cof=FORID:0&cx=partner-pub-4857169685716700:9780732506">GoutPal Science Search Engine</a> indexes both blogs. Also note that it covers all my gout websites. So that's the best place to find facts with explanations to help you apply the science to your situation.

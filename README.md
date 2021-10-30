@@ -1,11 +1,35 @@
 # GoutPal.info In Progress
 
-##211029 Import WP
+##yymmddx Priority Issues
+These notes become project-notes.md and all outstanding tasks are in Issues.
+This is not a platform for discussing personal issues. Unless you explain how those issues relate to a page (you can open as many issues as you want about different pages). I highly recommend that you create your own project file to control your view of all your issues. Currently, I can support you directly with 2 platforms - GitHub and MindMup. If you are not familiar with these, choose MindMup. Because that's a very capable platform for new learners. But GitHub needs considerable learning investment. Ideally, you would help on an existing project like this for a few months before starting your own GitHub projects. Though I do intend to make this easier for you in future. With personal gout planning templates.
+
+##yymmddx Platform Switch
+
+##211029c Blog Welcome
+Explain site is moving to allow fast expansion. Main plan is to focus on professional guidance to gout patients. Because most gout patients don't know it exists. And even if they did, it assumes someone has explained your options to you.
+
+##211029b Front Page & Nav
+I want a clean front page offering old or new blogs for now. Then do better intro when bulk of wp pages have been reviewed.
+- resources/scss/04-layout/_site.scss: changed background image to a solid color. Not sure if this needs changing in main.css and/or main.min.css
+- site/includes/components/nav.njk: Changed skeleventy link to WP version of About Page 
+- site/index.md: rewritten.
+- site/includes/components/footer.njk: Added current footer links. But these need updating as new admin pages are created. Should also include a feedback link direct to issues.
+- site/includes/components/footer.njk: Add disclaimer
+- Change favicon.icon (root) & images/meta/apple-touch-icon.png. 
+- Remove svg from...
+  - site/includes/layouts/base.njk
+  - site/globals/site.json
+  - favicon.svg
+- try again with background image - changing css/main.css and css/main.min.css which seem identical. Need to learn the 'right' way to edit css in this template!
+
+##211029a Import WP
 - Download zip to new wp folder
 - extract zip
 - rename wp/index.html
 - delete zip
 - eleventy.config.js config.addPassthroughCopy({ "wp/": "/" })
+- delete skeleventy /about/ folder for compatibility with wp (quicker than creating new admin pages, which I can do later)
 
 ##211025 1st Config
 - This readme project note

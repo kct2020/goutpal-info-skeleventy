@@ -12,6 +12,7 @@ eleventyNavigation:
 <img src="images/gout-library-banner-white.webp" alt="WordPress Transmigration Experts"  width="610" height="377">
   <figcaption>GoutPal's Gout Library by Keith Taylor</figcaption>
 </figure>
+
 ## GoutPal's Gout Library Status
 
 I'm transitioning GoutPal's Gout Library to a new platform. So currently you can browse the <a href="/goutpal-info-wp-2020">old blog</a>. Or read the <a href="/blog">latest gout science blog</a>.

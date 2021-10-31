@@ -1,12 +1,13 @@
 ---
-date: 2021-10-29
+date: 2021-10-30
 meta_description: Gouty Arthritis Library collects facts to help you and your doctors. See how gout and uric facts apply to you.
 title: Welcome to GoutPal.info
 sub_heading: The Gouty Arthritis Library is a collection of facts that support GoutPal articles. The information curated from medical journals help you and your health professionals. Because you can see how research applies to your specific circumstances.
-post_image: post-1.jpg # /images/gout-library-welcome.webp
+post_image: /images/gout-library-welcome.webp
 image_alt: Welcome to the Gout and Uric Acid Library
 tags:
     - using
+    - blog
 ---
 
 ##Gout Library Status

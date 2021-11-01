@@ -10,7 +10,7 @@ tags:
     - blog
 ---
 
-##Gout Library Status
+## Gout Library Status
 
 I have moved the 2020 version of my gout library to a new platform. Hence we currently have an <a href="/goutpal-info-wp-2020">old library</a> and this new blog. Next I'll add new content to this blog. Then I'll gradually review the old content and republish it here, if it's still relevant.
 

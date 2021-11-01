@@ -17,4 +17,4 @@ eleventyNavigation:
 
 I'm transitioning GoutPal's Gout Library to a new platform. So currently you can browse the <a href="/goutpal-info-wp-2020">old blog</a>. Or read the <a href="/blog">latest gout science blog</a>.
 
-Please note that the <a href="https://cse.google.com/cse?cof=FORID:0&cx=partner-pub-4857169685716700:9780732506">GoutPal Science Search Engine</a> indexes both blogs. Also note that it covers all my gout websites. So that's the best place to find facts with explanations to help you apply the science to your situation.
+Please note that the <a href="https://cse.google.com/cse?cof=FORID:0&cx=partner-pub-4857169685716700:9780732506">GoutPal Search Engine</a> indexes both blogs. Also note that it covers all my gout websites. So that's the best place to find facts with explanations to help you apply the science to your situation.

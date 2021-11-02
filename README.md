@@ -6,8 +6,11 @@ This is not a platform for discussing personal issues. Unless you explain how th
 
 ##yymmddx Platform Switch
 
-##211029c Blog Welcome
+##211030a Blog Welcome
 Explain site is moving to allow fast expansion. Main plan is to focus on professional guidance to gout patients. Because most gout patients don't know it exists. And even if they did, it assumes someone has explained your options to you.
+Also do 2 more new blogs:
+- Gout Pain Relief Best Practices
+- Uric Acid Control Best Practices
 
 ##211029b Front Page & Nav
 I want a clean front page offering old or new blogs for now. Then do better intro when bulk of wp pages have been reviewed.

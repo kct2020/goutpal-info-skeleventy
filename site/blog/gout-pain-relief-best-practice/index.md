@@ -70,4 +70,4 @@ Finally, do you have any questions, experiences, or opinions about guidelines fo
 
 ***
 
-Leave {{page.title}} to browse the <a href="/blog">latest gout science blog</a>.
+Leave {{ title }} to browse the <a href="/blog">latest gout science blog</a>.

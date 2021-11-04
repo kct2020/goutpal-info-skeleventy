@@ -73,7 +73,7 @@ module.exports = config => {
     config.addPassthroughCopy('images')
     config.addPassthroughCopy('favicon.png')
     config.addPassthroughCopy('favicon.svg')
-	config.addPassthroughCopy('ads.txt')
+    config.addPassthroughCopy('ads.txt')
     config.addPassthroughCopy({ "wp/": "/" })
 
     return {

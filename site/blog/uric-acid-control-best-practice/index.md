@@ -12,7 +12,7 @@ tags:
 
 ## Uric Acid Treatment Guideline 2020
 
-This review continues my earlier review of <a href="blog/gout-pain-relief-best-practice">Gout Pain Relief Best Practice</a>. So I recommend that you read that first. In particular, my comments about Scope and Intent apply here. But here's a quick recap:
+This review continues my earlier review of <a href="/blog/gout-pain-relief-best-practice">Gout Pain Relief Best Practice</a>. So I recommend that you read that first. In particular, my comments about Scope and Intent apply here. But here's a quick recap:
 
 - This review helps you discuss treatment choices with your doctor.
 - The ACR guideline summarizes published gout research. So it is not fully inclusive.
@@ -37,7 +37,7 @@ The uric acid treatment recommendations are spread across 5 sections. So I will 
 
 Please keep returning to read the detailed reviews as I publish them.
 
-Finally, do you have any questions, experiences, or opinions about guidelines for uric acid treatment? First, check to see if we are already discussing your concerns in <a href="https://github.com/kct2020/goutpal-info-11ty/issues">Gout Library Issues</a>. If not, <a href="https://github.com/kct2020/goutpal-info-11ty/issues/new/choose">raise a new issue</a> to share your thoughts.
+Finally, do you have any questions, experiences, or opinions about <b>guidelines</b> for uric acid treatment? First, check to see if we are already discussing your concerns in <a href="https://github.com/kct2020/goutpal-info-11ty/issues">Gout Library Issues</a>. If not, <a href="https://github.com/kct2020/goutpal-info-11ty/issues/new/choose">raise a new issue</a> to share your thoughts. Please note that these links are for improving this page and related gout guideline facts. So if you want to discuss your personal treatment you should use <a href="https://github.com/kct2020/goutpal-com-skeleventy/discussions">GoutPal Discussions</a>.
 
 
 ***

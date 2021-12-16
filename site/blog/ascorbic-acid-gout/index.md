@@ -1,3 +1,4 @@
+---
 date: 2021-12-16
 meta_description: Ascorbic acid is associated with uric acid. But does the research really tell us that vitamin C helps gout? Check the latest studies.
 title: Ascorbic Acid & Uric Acid Research
@@ -21,9 +22,9 @@ Currently, the studies I have included are:
 <table id="" style="width: 100%;">
 	<thead>
 		<tr>
-			<th style="width: 60%;">Study</th>
+			<th style="width: 40%;">Study</th>
 			<th style="width: 10%;">Status</th>
-			<th style="width: 30%;">Quote/Note</th>
+			<th style="width: 50%;">Quote/Note</th>
 		</tr>
 	</thead>
 	<tbody>
@@ -94,10 +95,17 @@ Currently, the studies I have included are:
 		</tr>
 	</tbody>
 </table>
-Customise overflow="auto" to get vertical scroll if theme doesn't provide it
 
-Finally, do you have any questions, experiences, or opinions about <b>guidelines</b> for uric acid treatment? First, check to see if we are already discussing your concerns in <a href="https://github.com/kct2020/goutpal-info-11ty/issues">Gout Library Issues</a>. If not, <a href="https://github.com/kct2020/goutpal-info-11ty/issues/new/choose">raise a new issue</a> to share your thoughts. Please note that these links are for improving this page and related gout guideline facts. So if you want to discuss your personal treatment you should use <a href="https://github.com/kct2020/goutpal-com-skeleventy/discussions">GoutPal Discussions</a>.
+<figure class="inner">
+<img src="/images/abscorbic-acid-and-gout-research.webp" alt="Ascorbic Acid and Uric Acid Research"  width="610" height="377">
+  <figcaption>Ascorbic Acid and Uric Acid Research</figcaption>
+</figure>
 
+<h2 id="list">Your Ascorbic Acid & Uric Acid</h2>
+
+As ever, I prioritize completion of these studies according to your feedback. So if you want me to publish a review that is still not complete, let me know.
+
+You can post your comments about ascorbic acid and uric acid at <a href="https://github.com/kct2020/goutpal-info-11ty/issues/18">changes to this page</a>. Please note that the link is for improving this page. So if you want to discuss other aspects of you should use <a href="https://github.com/kct2020/goutpal-com-skeleventy/discussions">GoutPal Discussions</a>.
 
 ***
 

@@ -12,7 +12,7 @@ tags:
 
 <h2 id="intro">Ascorbic Acid & Uric Acid Research</h2>
 
-This is the acorbic acid subsection of the Uric Acid and Vitamins section. So here you will find a list of studies that investigate links between vitamin C and gout.
+This is the ascorbic acid subsection of the Uric Acid and Vitamins section. So here you will find a list of studies that investigate links between vitamin C and gout.
 
 For this current version, I have done a quick search of `ascorbic acid` and `gout` topics. Then, I've excluded studies that do not include a readily available abstract that summarizes a relevant connection. So there is scope for me to conduct more thorough research on specific aspects of ascorbic acid & uric acid if your feedback indicates I should.
 
@@ -71,7 +71,7 @@ Currently, the studies I have included are:
 		<tr id="2014">
 			<td>Andrés, Mariano, Francisca Sivera, Louise Falzon, Rachelle Buchbinder, and Loreto Carmona. 2014. “Dietary Supplements for Chronic Gout.” Cochrane Database of Systematic Reviews 11 (10).</td>
 			<td>new</td>
-			<td><q cite="https://doi.org/10.1002/14651858.CD010156.PUB2">Vitamin C did not lower sUA as much as allopurinol</q></td>
+			<td><q cite="https://doi.org/10.1002/14651858.CD010156.PUB2">Vitamin C did not lower sUA [serum Uric Acid] as much as allopurinol</q></td>
 		</tr>
 		<tr id="2014-kidney">
 			<td>Moyad, Mark A. 2014. “Lifestyle Changes, CAM, and Kidney Stones: Heart Health = Kidney Health,” 201–29.</td>
@@ -102,6 +102,14 @@ Currently, the studies I have included are:
 </figure>
 
 <h2 id="list">Your Ascorbic Acid & Uric Acid</h2>
+
+Are you concerned about how your vitamin C consumption affects your gout? Then these are some studies that you should discuss with your professional health advisers. But, as you can see from the quotes, this is a complex topic. Since details from the studies show how results are affected by each gout sufferers individual circumstances. Especially with regard to each gout sufferers: 
+
+- Uric acid production rates.
+- Uric acid excretion rates.
+- Other genetic and dietary factors.
+
+So be sure to discuss suitable tests to ensure your uric acid treatment plan is safe and reliable. 
 
 As ever, I prioritize completion of these studies according to your feedback. So if you want me to publish a review that is still not complete, let me know.
 

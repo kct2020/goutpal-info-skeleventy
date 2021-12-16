@@ -113,7 +113,7 @@ So be sure to discuss suitable tests to ensure your uric acid treatment plan is 
 
 As ever, I prioritize completion of these studies according to your feedback. So if you want me to publish a review that is still not complete, let me know.
 
-You can post your comments about ascorbic acid and uric acid at <a href="https://github.com/kct2020/goutpal-info-11ty/issues/18">changes to this page</a>. Please note that the link is for improving this page. So if you want to discuss other aspects of you should use <a href="https://github.com/kct2020/goutpal-com-skeleventy/discussions">GoutPal Discussions</a>.
+You can post your comments about ascorbic acid and uric acid at <a href="https://github.com/kct2020/goutpal-info-11ty/issues/18">changes to this page</a>. Please note that the link is for improving this page. So if you want to discuss other aspects of your gout, you should use <a href="https://github.com/kct2020/goutpal-com-skeleventy/discussions">GoutPal Discussions</a>.
 
 ***
 

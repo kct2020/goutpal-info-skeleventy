@@ -12,14 +12,14 @@ tags:
 
 <h2 id="intro">Ascorbic Acid & Uric Acid Research</h2>
 
-This is the ascorbic acid subsection of the Uric Acid and Vitamins section. So here you will find a list of studies that investigate links between vitamin C and gout.
+This is the ascorbic acid subsection of the <a href="/blog/uric-acid-vitamins/">Uric Acid & Vitamins</a> section. So here you will find a list of studies that investigate links between vitamin C and gout.
 
 For this current version, I have done a quick search of `ascorbic acid` and `gout` topics. Then, I've excluded studies that do not include a readily available abstract that summarizes a relevant connection. So there is scope for me to conduct more thorough research on specific aspects of ascorbic acid & uric acid if your feedback indicates I should.
 
 <h2 id="list">Ascorbic Acid & Uric Acid Studies</h2>
 
 Currently, the studies I have included are:
-<table id="" style="width: 100%;">
+<table id="studies" style="width: 100%;">
 	<thead>
 		<tr>
 			<th style="width: 40%;">Study</th>
@@ -101,7 +101,7 @@ Currently, the studies I have included are:
   <figcaption>Ascorbic Acid and Uric Acid Research</figcaption>
 </figure>
 
-<h2 id="list">Your Ascorbic Acid & Uric Acid</h2>
+<h2 id="next">Your Ascorbic Acid & Uric Acid</h2>
 
 Are you concerned about how your vitamin C consumption affects your gout? Then these are some studies that you should discuss with your professional health advisers. But, as you can see from the quotes, this is a complex topic. Since details from the studies show how results are affected by each gout sufferers individual circumstances. Especially with regard to each gout sufferers: 
 
@@ -117,4 +117,4 @@ You can post your comments about ascorbic acid and uric acid at <a href="https:/
 
 ***
 
-Leave {{ title }} to browse the <a href="/blog">{{ site.blog }}</a>.
+Leave {{ title }} to browse the <a href="/blog/uric-acid-vitamins/">Uric Acid & Vitamins</a> section.

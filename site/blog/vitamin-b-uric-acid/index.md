@@ -12,6 +12,7 @@ tags:
 
 <h2 id="intro">Vitamin B & Uric Acid Introduction</h2>
 This is the vitamin B subsection of the <a href="/blog/uric-acid-vitamins/">Uric Acid & Vitamins</a> section. So here you will find a list of studies that investigate links between gout and...
+
 - Vitamin B₁ (thiamine)
 - Vitamin B₂ (riboflavin)
 - Vitamin B₃ (niacin)

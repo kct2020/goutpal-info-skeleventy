@@ -1,5 +1,5 @@
 ---
-date: 2021-12-16
+date: 2021-12-20
 meta_description: Different types of vitamin B are linked with uric acid. Research tells us which ones help gout. Check the latest studies.
 title: Vitamin B & Uric Acid Research
 sub_heading: There are several types of vitamin B. See which are linked with uric acid.

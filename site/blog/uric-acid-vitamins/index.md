@@ -1,8 +1,8 @@
 ---
-date: 2021-12-16
-meta_description: Ascorbic acid is associated with uric acid. But does the research really tell us that vitamin C helps gout? Check the latest studies.
-title: Ascorbic Acid & Uric Acid Research
-sub_heading: Ascorbic acid and uric acid are linked. But does that affect your treatment choices? See vitamin C facts to discuss with your doctor.
+date: 2021-12-20
+meta_description: Vitamins have complex links with uric acid. But does the research really tell us how vitamins help gout? Check the latest studies.
+title: Uric Acid & Vitamins Research
+sub_heading: Vitamins and uric acid have complex relationships. See uric acid and vitamins facts to discuss with your doctor.
 post_image: /images/vitamins-and-uric-acid.webp
 image_alt: Vitamins and Uric Acid
 tags:
@@ -12,7 +12,7 @@ tags:
 
 <h2 id="intro">Uric Acid & Vitamins Introduction</h2>
 
-The main groups of vitamins associated with gout are vitamins B and C. So I've created subsections in this Uric Acid & Vitamins section for <a href="/blog/ascorbic-acid-gout/">Ascorbic Acid & Uric Acid</a> and Vitamin B and Uric Acid.
+The main groups of vitamins associated with gout are vitamins B and C. So I've created subsections in this Uric Acid & Vitamins section for <a href="/blog/ascorbic-acid-gout/">Ascorbic Acid & Uric Acid</a> and <a href="/blog/vitamin-b-uric-acid/">Vitamin B and Uric Acid</a>.
 
 So far, I haven't found any meaningful uric acid studies for tocopherol (vitamin E) or phytomenadione (vitamin K). But here are some for retinol (vitamin A) and calciferol (vitamin D).
 

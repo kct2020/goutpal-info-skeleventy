@@ -22,7 +22,8 @@ This is the vitamin B subsection of the <a href="/blog/uric-acid-vitamins/">Uric
 - Vitamin B₉ (folic acid or folate)
 - Vitamin B₁₂ (cobalamins)
 
-For this current version, I have done a quick search of `uric acid` and `vitamin b` topics. So there is scope for me to conduct more thorough research if your feedback indicates I should. Specifically, I might focus on a specific type of B vitamin & uric acid
+For this current version, I have done a quick search of `uric acid` and `vitamin B` topics. So there is scope for me to conduct more thorough research if your feedback indicates I should. For example, I might focus on specific types of B vitamin & uric acid
+
 <h2 id="studies">Vitamin B & Uric Acid Studies</h2>
 
 <table id="list" style="width: 100%;">

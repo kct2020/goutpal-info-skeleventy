@@ -7,7 +7,6 @@ post_image: /images/uric-acid-vitamin-b.webp
 image_alt: Uric Acid & Vitamin B
 tags:
     - blog
-    - vitamin
 ---
 
 <h2 id="intro">Vitamin B & Uric Acid Introduction</h2>

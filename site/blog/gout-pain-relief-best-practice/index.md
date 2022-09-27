@@ -7,7 +7,6 @@ image_alt: Doctor Patient Gout Pain Partnership
 sub_heading: Rheumatologists guide frontline doctors on the best way to treat gout pain. But their recommendations rely on your input. So learn about your options so you can discuss them properly with health professionals.
 tags:
     - blog
-    - guideline
 ---
 
 ## Gout Pain Relief Guideline 2020

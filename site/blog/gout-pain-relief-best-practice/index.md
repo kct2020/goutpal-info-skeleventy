@@ -63,7 +63,7 @@ Always bear in mind the scope of the 2020 gout guideline. Because it exists to r
 
 The guideline strongly recommends that you choose between low-dose colchicine, NSAIDs, or steroids. According to your preferences and medical history. So if you are not sure which is the best choice for you, discuss that with your doctor.
 
-As you see, there are two special cases where you might be unable to choose any of those. Because they might not be suitable for you. Or you might be unable to take oral medicine. Finally, the guideline suggests that the best aditional treatment is to apply ice to your swollen joints. However, you should discuss the issues I raise in <a href="https://www.goutpal.com/3099/heat-or-ice-for-gout-relief/">Heat Or Ice For Gout Relief</a> with your doctor.
+As you see, there are two special cases where you might be unable to choose any of those. Because they might not be suitable for you. Or you might be unable to take oral medicine. Finally, the guideline suggests that the best aditional treatment is to apply ice to your swollen joints. However, you should discuss the issues I raise in <a href="https://goutpal.com/3099/heat-or-ice-for-gout-relief/">Heat Or Ice For Gout Relief</a> with your doctor.
 
 Finally, do you have any questions, experiences, or opinions about guidelines for gout pain relief? First, check to see if we are already discussing your concerns in <a href="https://github.com/kct2020/goutpal-info-11ty/issues">Gout Library Issues</a>. If not, <a href="https://github.com/kct2020/goutpal-info-11ty/issues/new/choose">raise a new issue</a> to share your thoughts.
 

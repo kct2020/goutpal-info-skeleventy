@@ -45,7 +45,7 @@ Currently, the studies I have included are:
 		<tr id="2005">
 			<td>Huang, Han Yao, Lawrence J. Appel, Michael J. Choi, Allan C. Gelber, Jeanne Charleston, Edward P. Norkus, and Edgar R. Miller. 2005. “The Effects of Vitamin C Supplementation on Serum Concentrations of Uric Acid: Results of a Randomized Controlled Trial.” Arthritis & Rheumatism 52 (6): 1843–47.</td>
 			<td>move</td>
-			<td>Reformat <a href="https://www.goutpal.com/gout-treatment/treatment-of-gout/vitamin-c-uric-acid/">2012 review</a> here.<br /><q cite="https://doi.org/10.1002/ART.21105">Supplementation with 500 mg/day of vitamin C for 2 months reduces serum uric acid</q></td>
+			<td>Reformat <a href="https://goutpal.com/gout-treatment/treatment-of-gout/vitamin-c-uric-acid/">2012 review</a> here.<br /><q cite="https://doi.org/10.1002/ART.21105">Supplementation with 500 mg/day of vitamin C for 2 months reduces serum uric acid</q></td>
 		</tr>
 		<tr id="2006">
 			<td>Lee, Susan J, Robert A Terkeltaub, and Arthur Kavanaugh. 2006. “Recent Developments in Diet and Gout.” Current Opinion in Rheumatology 18 (2): 193–98.</td>

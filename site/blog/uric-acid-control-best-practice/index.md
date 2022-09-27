@@ -7,7 +7,6 @@ post_image: /images/uric-acid-control-best-practice.webp
 image_alt: Uric Acid Control Best Practice
 tags:
     - blog
-    - guideline
 ---
 
 ## Uric Acid Treatment Guideline 2020

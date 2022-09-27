@@ -7,7 +7,6 @@ post_image: /images/abscorbic-acid-and-gout-research.webp
 image_alt: Ascorbic Acid and Uric Acid Research
 tags:
     - blog
-    - vitamin
 ---
 
 <h2 id="intro">Ascorbic Acid & Uric Acid Research</h2>

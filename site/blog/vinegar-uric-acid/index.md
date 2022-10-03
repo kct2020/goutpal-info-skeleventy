@@ -22,7 +22,6 @@ tags:
 <p><code>Hosseini, Z.S.M., Hosseini, J., Nabati, S., Hasanshahi, G. and Mahmoodi, M., 2011. Survey on the anti-diabetic effects of vinegar on some biochemical factors in type 2 diabetic patients. Clinical Biochemistry-New York, 44(13), p.2.</code></p>
 <p><q cite="https://doi.org/">FBS (P=0.006) and HbA1c (P=0.002) reduced significantly in the first group, while TG, total cholesterol, LDL-C, HDL-C, urea, Cr, uric acid, AST, ALT, ALP did not show significant differences.</q></p>
 <p>There are more studies reporting vinegar benefits without including uric acid values.</p>
-<p>[So I'll review those in the Foodary Library.]</p>
 <h3 id="alkalizing">Alkalizing Vinegar Helps Uric Acid Excretion</h3>
 <p>This study uses an unspecified type of vinegar as one of many ingredients in an alkali diet. </p>
 <p><code>Kanbara, A., Hakoda, M. and Seyama, I., 2010. Urine alkalization facilitates uric acid excretion. Nutrition journal, 9(1), pp.1-5.</code></p>
@@ -30,7 +29,6 @@ tags:
 <h3 id="inhibit">Vinegar Inhibits Uric Acid Production</h3>
 <p>Next is a lab-only (*in-vitro*) study of vinegar's ability to inhibit uric acid production. Comparing different types of commercial vinegar and one produced in the laboratory. Including seasoned vinegar, fruit vinegars, rice vinegars, and a lab-produced red-koji vinegar.</p>
 <p><code>Lin, S.M., Wu, J.Y., Su, C., Ferng, S., Lo, C.Y. and Chiou, R.Y.Y., 2012. Identification and mode of action of 5-hydroxymethyl-2-furfural (5-HMF) and 1-methyl-1, 2, 3, 4-tetrahydro-β-carboline-3-carboxylic acid (MTCA) as potent xanthine oxidase inhibitors in vinegars. Journal of agricultural and food chemistry, 60(39), pp.9856-9862.</code>
-[221003-vinegar-inhibits-uric-acid-production-2012.pdf in GoutPal Links Member's Files folder]
 <q cite="https://doi.org/10.1021/jf302711e">For more than four decades, allopurinol has been the only clinically available agent with XO inhibitory (XOI) activity and remains as a mainstay drug for treating hyperuricemia and gout, regardless of its well-documented hepatic and renal toxicity. […] As conceptually noted and communicated by gouty individuals, relieving gout-caused discomfort by ingesting indigenously fermented vinegars is highly effective, resulting in increased attention in research. […] 5-HMF and MTCA were identified as two of the active compounds, comprising the first scientific evidence given to support the relief of gout-caused discomfort by the ingestion of vinegars. In the future, the related in-depth investigation and product development deserve research interest and industrial attention.</q></p>
 <h3 id="plum">Plum Vinegar &amp; Uric Acid</h3>
 <p>The biggest problem with this study is that it only shows how plum vinegar shows potential as a uric acid treatment in the lab. Otherwise, it's encouraging to see that both sorghum vinegar and plum vinegar could encourage uric acid excretion. Furthermore, plum vinegar could inhibit uric acid production. So the researchers recommend clinical trials with gout sufferers.</p>
@@ -39,7 +37,6 @@ tags:
 <h3 id="soy">Soy Vinegar &amp; Hyperuricemia</h3>
 <p>Finally (for now), researchers have studied the effects of fermented soybean vinegar on gout-induced rats. Having tested different fermentation periods, they found 20 days to be most effective. With an extract of 2-day fermented vinegar inhibiting uric acid at a comparable rate to allopurinol. Subsequent blood tests on uric acid showed dose-dependent reduction. Also, kidney and liver function tests showed normal activity during soy vinegar extract treatment. </p>
 <p><code>Pyo, Y.H., Hwang, J.Y. and Seong, K.S., 2018. Hypouricemic and antioxidant effects of soy vinegar extracts in hyperuricemic mice. Journal of medicinal food, 21(12), pp.1299-1305.</code>
-[221003-soy-vinegar-hyperuricemia-2018.pdf in GoutPal Links Member's Files folder]
 <q cite="https://doi.org/10.1089/jmf.2018.4181">The results suggest that soy vinegar brewed by using Monascus-fermented soybeans may be a promising candidate as an adjunctive treatment in patients with hyperuricemia.</q></p>
 <figure id="image" class="inner">
 <img src="{{ post_image }}" alt="{{ image_alt }}"  width="610" height="377">

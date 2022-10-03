@@ -36,8 +36,8 @@ tags:
 <p><q cite="https://doi.org/10.1111/jfbc.12373">The acetic acid presented in the vinegar might help to nullify the uric acid (urate) crystal formation by improving the solubility and thus lower the MSU crystal deposition in the joints and subsequently reduce the incidence of gout. Therefore, we hypothesize that increased acetic acid content of MV with higher urate solubility property and higher XOI activity makes it has a potent hypouricemic agent. Nevertheless, preclinical and clinical studies are required to confirm its hypouricemic effect.</q></p>
 <h3 id="soy">Soy Vinegar &amp; Hyperuricemia</h3>
 <p>Finally,for now, researchers have studied the effects of fermented soybean vinegar on gout-induced rats. Having tested different fermentation periods, they found 20 days to be most effective. With an extract of 2-day fermented vinegar inhibiting uric acid at a comparable rate to allopurinol. Subsequent blood tests on uric acid showed dose-dependent reduction. Also, kidney and liver function tests showed normal activity during soy vinegar extract treatment. </p>
-<p><code>Pyo, Y.H., Hwang, J.Y. and Seong, K.S., 2018. Hypouricemic and antioxidant effects of soy vinegar extracts in hyperuricemic mice. Journal of medicinal food, 21(12), pp.1299-1305.</code>
-<q cite="https://doi.org/10.1089/jmf.2018.4181">The results suggest that soy vinegar brewed by using Monascus-fermented soybeans may be a promising candidate as an adjunctive treatment in patients with hyperuricemia.</q></p>
+<p><code>Pyo, Y.H., Hwang, J.Y. and Seong, K.S., 2018. Hypouricemic and antioxidant effects of soy vinegar extracts in hyperuricemic mice. Journal of medicinal food, 21(12), pp.1299-1305.</code></p>
+<p><q cite="https://doi.org/10.1089/jmf.2018.4181">The results suggest that soy vinegar brewed by using Monascus-fermented soybeans may be a promising candidate as an adjunctive treatment in patients with hyperuricemia.</q></p>
 <figure id="image" class="inner">
 <img src="{{ post_image }}" alt="{{ image_alt }}"  width="610" height="377">
   <figcaption>{{ image_alt }}</figcaption>

@@ -41,12 +41,12 @@ As mentioned, butternut squash provides many important nutrients. So here I've c
   <figcaption>{{ image_alt }}</figcaption>
 </figure>
 <h2 id="next">Butternut Squash and Your Uric Acid</h2>
-You have learned some facts about butternut squash. Also, about two of it's key nutrients – vitamin A and beta-carotene. So you can use these facts in your discussions with health advisers about your butternut squash consumption.
+You have learned some facts about butternut squash. Especially, about two of it's key nutrients – vitamin A and beta-carotene. So you can use these facts in your discussions with health advisers about your butternut squash consumption.
 
 Later, I will refer to these facts in my butternut squash articles for gout sufferers. Then I'll add links to those articles here,
 
 <hr />
-Leave {{ title }} to read <a href="/">Gout Library Home Page</a>. 
+Leave {{ title }} to browse the <a href="/blog">{{ site.blog }}</a>.
 
 <h2 id="comments">{{ title }} Comments</h2>
 <p>Please add your comments below.<br />

@@ -34,7 +34,7 @@ So far, I haven't found any meaningful uric acid studies for tocopherol (vitamin
 		<tr id="2013">
 			<td>Ford, Earl S., and Hyon K. Choi. "Associations between concentrations of uric acid with concentrations of vitamin A and beta-carotene among adults in the United States." Nutrition research 33, no. 12 (2013): 995-1002.</td>
 			<td>new</td>
-			<td><q cite="https://doi.org/10.1016/j.nutres.2013.08.008">Concentrations of uric acid were significantly and positively associated with concentrations of vitamin A and inversely with concentrations of beta-carotene.</q></td>
+			<td><q cite="https://doi.org/10.1016/j.nutres.2013.08.008">Concentrations of uric acid were significantly and positively associated with concentrations of vitamin A and inversely with concentrations of beta-carotene.</q> Also, see <a href="https://goutpal.com/blog/beta-carotene-foods-gout/">Top Beta-Carotene Foods</a>.</td>
 		</tr>
 		<tr id="2015">
 			<td>Liu, Shi-guo, Yuan-yuan Li, Rui-xia Sun, Jing-li Wang, Xin-de Li, Lin Han, Nan Chu, and Chang-gui Li. 2015. “Polymorphisms in the Vitamin D Receptor and Risk of Gout in Chinese Han Male Population.” Rheumatology International 35 (6): 963–71.</td>

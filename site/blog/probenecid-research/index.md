@@ -1,6 +1,6 @@
 ---
 layout: post
-date: 2022-10-31T010:22:00Z
+date: 2022-10-31T10:22:00Z
 meta_description: Do you need to know how probenecid treats gout? Let professional rheumatologists tell you. Start with the 2020 ACR Probenecid Guidelines.
 title: How does probenecid treat gout?
 topic: probenecid

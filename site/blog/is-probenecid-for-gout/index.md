@@ -4,7 +4,7 @@ date: 2022-11-02T10:37:00Z
 meta_description: Rheumatologists recommend probenecid for gout. But what about comorbidities? Read the facts about obesity, diabetes, heart failure and other comorbid diseases.
 title: Is Probenecid a Gout Treatment?
 topic: probenecid for gout
-image_alt: Probenecid: More than a Gout Drug
+image_alt: Probenecid – More than a Gout Drug
 sub_heading: We know probenecid treats gout. But what about comorbidities?
 post_image: "/images/probenecid-more-than-a-gout-drug.webp"
 tags:

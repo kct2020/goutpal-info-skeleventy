@@ -46,6 +46,8 @@ Now you see that rheumatologists expect you to explain your preferences about pr
 
 Please tell me your {{ topic }} story below.
 
+Before you ask about probenecid, it's best to read all three articles in my probenecid facts series. So these guidelines are the first step. Next, you can read <a href="/blog/probenecid-side-effects/">Probenecid Side Effects Research Studies</a>. Then <a href="/blog/is-probenecid-for-gout/">Probenecid for Gout Comorbidities Research Studies</a>.
+
 <hr>
 Leave {{ title }} to browse the <a href="/blog">{{ site.blog }}</a>.
 

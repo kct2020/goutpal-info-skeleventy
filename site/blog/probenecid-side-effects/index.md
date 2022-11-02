@@ -62,7 +62,12 @@ Hypersensitivity reactions to PROB in the general population may occur as many a
 Which aspects of {{ topic }} are you interested in? How do you think {{ topic }} might affect you and your gout?
 
 Please tell me your {{ topic }} story below.
-
+<p>This is my second probenecid research review…</p>
+<ol>
+<li><a href="/blog/probenecid-research/">2020 ACR Probenecid Guidelines</a></li>
+<li>This Probenecid Side Effects Research review</li>
+<li><a href="/blog/is-probenecid-for-gout/">Probenecid for Gout Comorbidities Research Studies</a></li>
+</ol>
 <hr>
 Leave {{ title }} to browse the <a href="/blog">{{ site.blog }}</a>.
 

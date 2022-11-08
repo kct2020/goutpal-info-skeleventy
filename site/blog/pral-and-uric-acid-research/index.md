@@ -10,7 +10,7 @@ post_image: "/images/acid-base-balance-gout-diet.webp"
 tags:
 - blog
 ---
-<p>Potential Renal Acid Load (PRAL) is an estimate of the acidity or alkalinity of urine after food has been concerned. Although, the true test needs to be measured by a pH meter. This simple estimate is a reliable indicator. Both for analyzing past food consumption. And for planning <a href="/gout-resources/dieter/80-intro/alkaline-gout-diets/">alkaline dietary patterns for gout sufferers</a>.</p>
+<p>Potential Renal Acid Load (PRAL) is an estimate of the acidity or alkalinity of urine after food has been concerned. Although, the true test needs to be measured by a pH meter. This simple estimate is a reliable indicator. Both for analyzing past food consumption. And for planning <a href="https://goutpal.com/gout-resources/dieter/80-intro/alkaline-gout-diets/">alkaline dietary patterns for gout sufferers</a>.</p>
 <h2 id="pralanduricacidresearchtopics">PRAL and Uric Acid Research Topics</h2>
 <h3 id="diet">PRAL &amp; Uric Acid Diet</h3>
 <p>My first study looks at statistical relationships between Potential Renal Acid Load and uric acid. Concluding that gout sufferers who cannot tolerate medical uric acid treatment might benefit from dietary patterns that reduce acid load.</p>

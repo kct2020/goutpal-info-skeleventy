@@ -1,6 +1,6 @@
 ---
 layout: post
-date: 2022-11-18T011:05:00Z
+date: 2022-11-18T11:05:00Z
 meta_description: Gout sufferers often blame themselves. Leading to delays in proper treatment. See the benefits of renaming gout to urate crystal arthritis.
 title: Urate Crystal Arthritis Research
 topic: urate crystal arthritis

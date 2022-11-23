@@ -2,6 +2,7 @@
 date: 2021-12-20
 meta_description: Different types of vitamin B are linked with uric acid. Research tells us which ones help gout. Check the latest studies.
 title: Vitamin B & Uric Acid Research
+topic: vitamin B and uric acid
 sub_heading: There are several types of vitamin B. See which are linked with uric acid.
 post_image: /images/uric-acid-vitamin-b.webp
 image_alt: Uric Acid & Vitamin B
@@ -73,8 +74,39 @@ Are you concerned about how your vitamin B consumption affects your gout? Then t
 
 I prioritize completion of these studies according to your feedback. So if you want me to publish a review that is still not complete, let me know. Then I can change my priorities according to your needs.
 
-You can post your comments about vitamin and uric acid at <a href="https://github.com/kct2020/goutpal-info-11ty/issues/">GoutPal Library Issues</a>. Please note that the Issues board is for improving this page. So if you want to discuss other aspects of your gout, you should use <a href="https://github.com/kct2020/goutpal-com-skeleventy/discussions">GoutPal Discussions</a>.
+See how to post your comments about {{ topic }} below.
 
-***
+<hr>
 
 Leave {{ title }} to browse the <a href="/blog/uric-acid-vitamins/">Uric Acid & Vitamins</a> section.
+
+<h2 id="comments">{{ title }} Comments</h2>
+<p>Please add your comments below.<br />
+Your feedback options are:</p>
+<ol>
+<li><b>Easy Gout Comments.</b> Add comments below.</li>
+<li><b>Focused Gout Concerns.</b> Create a <a href="https://github.com/kct2020/goutpal-info-11ty/issues/new/choose">new issue</a> about any gout research concern that you want to resolve. Or <a href="https://github.com/kct2020/goutpal-info-11ty/issues">join an existing research issue</a>.</li>
+<li><b>General Gout Chat.</b> Start a <a href="https://github.com/kct2020/goutpal-com-skeleventy/discussions/new">new discussion</a> about any gout topic that interests you. Or <a href="https://github.com/kct2020/goutpal-com-skeleventy/discussions">join an existing discussion</a>.</li>
+</ol>
+<p>If you are asking a question, it is best to:</p>
+<ol>
+<li>Search for that question in <a href="https://cse.google.com/cse?cof=FORID:0&cx=partner-pub-4857169685716700:9780732506">the GoutPal Search Engine</a> first.</li>
+<li>Choose the most relevant result.</li>
+<li>Refer to that result as you ask your question.</li>
+</ol>
+<script src="https://giscus.app/client.js"
+        data-repo="kct2020/goutpal-com-skeleventy"
+        data-repo-id="R_kgDOGVSRQQ"
+        data-category="GoutPal Links Comments🗣"
+        data-category-id="DIC_kwDOGVSRQc4CRbFp"
+        data-mapping="title"
+        data-strict="0"
+        data-reactions-enabled="1"
+        data-emit-metadata="1"
+        data-input-position="top"
+        data-theme="light_tritanopia"
+        data-lang="en"
+        data-loading="lazy"
+        crossorigin="anonymous"
+        async>
+</script>

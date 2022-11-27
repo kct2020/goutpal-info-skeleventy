@@ -15,17 +15,17 @@ tags:
 <p>Individual gout sufferers must consider the quantity and type of milk they will drink. So here are 3 studies that present choices you can discuss with your doctor as you develop your gout management plan together. Later, I will refer to these studies as I update articles on GoutPal.com.</p>
 <h3 id="uht">UHT Milk For Gout</h3>
 <p>My first study is a laboratory investigation into the qualities 
- of cows milk. Assessing xanthine oxidase activity in whole and low-fat milk. Which was either pasteurized or UHT (Ultra High Treated). The researchers suggest that UHT milk is best for gout sufferers based on xanthine oxidase activity results.</p>
+ of cow's milk. Assessing xanthine oxidase activity in whole and low-fat milk. Which was either pasteurized or UHT (Ultra High Treated). The researchers suggest that UHT milk is best for gout sufferers based on xanthine oxidase activity results.</p>
 <p><code>Sha, W., Hou, C., Yuan, E., Li, Y. and Ren, J., 2021. Different processed milk with residual xanthine oxidase activity and risk of increasing serum uric acid level. Food Bioscience, 40, p.100892.</code></p>
 <p><q cite="https://doi.org/10.1016/j.fbio.2021.100892">Considering that whole milk has essential benefits for human health and based on our findings that the UHT process can alter XO structure and inactivate the XO in whole milk, UHT processed whole milk can be highly beneficial for those who want to avoid gout flares. </q></p>
 <h3 id="more">More Than Milk For Gout</h3>
-<p>My second study is a large statistical analysis of gout sufferers eating patterns over many years. Identifying important dietary targets. Including the significant one for this review in bold:</p>
+<p>My second study is a large statistical analysis of gout sufferers eating patterns over many years. Identifying important dietary targets. Including the significant one for this milk review in bold:</p>
 <ul>
-<li>Limiting meat intake</li>
-<li>Limiting drinking of alcohol beverages</li>
-<li>Limiting or decreasing intake of salt, oils and fats, and confectioneries</li>
-<li>Avoidance of excessive intake of sugar-sweetened beverages and sugary foods. Including desserts and sweets</li>
-<li><strong>Increasing the intake of milk and dairy products (particularly low-fat dairy products)</strong></li>
+<li>Limiting meat intake.</li>
+<li>Limiting drinking of alcohol beverages.</li>
+<li>Limiting or decreasing intake of salt, oils and fats, and confectioneries.</li>
+<li>Avoidance of excessive intake of sugar-sweetened beverages and sugary foods. Including desserts and sweets.</li>
+<li><strong>Increasing the intake of milk and dairy products (particularly low-fat dairy products).</strong></li>
 </ul>
 <p><code>Koguchi, T., 2022. Modification of animal product intake for prevention of gout in Japanese people in 2019: 2022 update. American Journal of Health Research, 10(4), pp.140-153.</code></p>
 <p><q cite="https://doi.org/10.11648/j.ajhr.20221004.11">Higher intake of dairy products and low-fat dairy products were associated with decreased gout risk, respectively. This result suggests that increase in daily intake of milk and dairy products (especially low-fat dairy products) in Japanese people is essential for the prevention of gout.</q></p>

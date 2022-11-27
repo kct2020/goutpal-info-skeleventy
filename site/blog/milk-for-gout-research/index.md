@@ -1,6 +1,6 @@
 ---
 layout: post
-date: 2022-11-27Thh:mm:00Z
+date: 2022-11-27T11:38:00Z
 meta_description: Are you worried about drinking milk for gout? Or which type to drink? See the latest research about milk for gout.
 title: Milk For Gout Research
 topic: milk for gout

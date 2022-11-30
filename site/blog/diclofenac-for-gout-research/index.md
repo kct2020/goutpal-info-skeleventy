@@ -11,7 +11,7 @@ tags:
 - blog
 ---
 <p>Diclofenac is one of many choices that gout sufferers have for pain relief. So how do you and your doctor choose what's best for you? Here are some brief summaries of investigations into diclofenac for gout.</p>
-<h2 id="topics">{{ title }}} Topics</h2>
+<h2 id="topics">{{ title }} Topics</h2>
 <h3 id="voltaren">Does Voltaren Work for Gout?</h3>
 <p>In my first study, researchers aimed to gain better understanding of the gout patient's perspective. By studying personal experiences. As such, it highlights 2 specific issues concerning diclofenac for gout.</p>
 <p><code>Te Karu, L., Bryant, L. and Elley, C.R., 2013. Maori experiences and perceptions of gout and its treatment: a kaupapa Maori qualitative study. Journal of Primary Health Care, 5(3), pp.214-222.</code></p>

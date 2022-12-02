@@ -42,7 +42,7 @@ Moreover, vegetarian diets may protect against many gout-associated comorbiditie
 <li><p>Is dietary lignan linked with weight change?</p></li>
 <li><p>The study distinguishes between healthful and unhealthful foods. With healthful foods including dairy, tea &amp; coffee, and whole grains. Each of which are associated with lower risk of gout. Whereas unhealthful fruit juice and sugar sweetened beverages are both linked with higher risk of gout.</p></li>
 <li><p>The study identifies 4 lignans, matairesinol,
-secoisolariciresinol, pinoresinol, and lariciresinol, found in many foods. Including coffee, flax, fruits, red wine, tea, vegetables,and whole grain cereals. Higher intakes of matairesinol and secoisolariciresinol were associated with a significantly lower risk of incident gout. But not pinoresinol or lariciresinol. For specific foods associated with lower risk of gout, the study identifies added bran, cooked oatmeal
+secoisolariciresinol, pinoresinol, and lariciresinol, found in many foods. Including coffee, flax, fruits, red wine, tea, vegetables, and whole grain cereals. Higher intakes of matairesinol and secoisolariciresinol were associated with a significantly lower risk of incident gout. But not pinoresinol or lariciresinol. For specific foods associated with lower risk of gout, the study identifies added bran, cooked oatmeal
 or oat bran, and whole grain cold breakfast cereal.</p></li>
 <li><p>The study found that high lignan intake is associated with less weight gain. Specifically recommending flaxseed, fruit, vegetables, and whole grains for gout sufferers who need to lose weight.</p></li>
 </ol>

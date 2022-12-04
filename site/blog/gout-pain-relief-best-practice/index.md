@@ -15,7 +15,7 @@ In my review of the <a href="/2020-gout-management-guideline">2020 gout manageme
 
 ## Gout Pain Relief Intent
 
-In this review, I intend to introduce the guideline recommendations that apply to gout pain relief. That supports the <a href="/about/purpose/">purpose of this website</a>. Because it shows you the key points about relieving gout pain that you must discuss with your health professionals.
+In this review, I intend to introduce the guideline recommendations that apply to gout pain relief. That supports the <a href="/purpose/">purpose of this website</a>. Because it shows you the key points about relieving gout pain that you must discuss with your health professionals.
 
 In a subsequent review, I will explain the recommendations related to uric acid control. I cover pain relief first. Because most gout patients will require pain relief during the first few months of uric acid treatment. After that, I will review those recommendations relating to lifestyle.
 

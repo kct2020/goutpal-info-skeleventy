@@ -28,7 +28,11 @@ tags:
 <p><code>Havlik, J., Plachy, V., Fernandez, J. and Rada, V., 2010. Dietary purines in vegetarian meat analogues. Journal of the Science of Food and Agriculture, 90(14), pp.2352-2357.</code></p>
 <p><q cite="https://doi.org/10.1002/jsfa.4089">the sum of more uricogenic adenine (AD) and hypoxanthine (HX) was expressed in mg kg−1 of 100% protein [indicated later in the text as the (AD+HX)–protein ratio], as meat in a normal diet is generally considered as a main protein source and these bases should be seen in relation to protein content. […] the highest sum (AD+HX)–protein ratio, was determined for Lincolnshire veggie sausages (Cauldron, UK), 3492 mg kg−1 and Quorn Bacon style rashers 3079 mg kg−1 (Marlow Foods, UK). Both these values were comparable with beef muscle meat (3196 mg kg−1).</q></p>
 <h2 id="next">Your Quorn and Gout Research</h2>
-If any of these gout studies seem relevant to your Quorn consumption, then discuss them with your doctor. Because you need to apply the findings to your own medical history and aspirations. As part of your patient-physician gout care partnership.
+If any of these gout studies seem relevant to your Quorn consumption, then discuss them with your doctor. Because you need to apply the findings to your own medical history and aspirations. As part of your patient-physician gout care partnership. You can also look for the latest Quorn articles in your current gout progression phases:<ul>
+<li>1. <a href="https://goutpal.com/blog/gout-causes/">Gout Causes</a></li>
+<li>5. <a href="https://goutpal.com/blog/start-uric-acid-cure/">Start Uric Acid Cure</a></li>
+<li>6. <a href="https://goutpal.com/blog/adjust-uric-acid-cure/">Adjust Uric Acid Cure</a></li>
+</ul>
 
 Be aware that you can customize GoutPal pages to add your own facts and concerns. Click any highlight, such as '{{ topic }}' to learn more.
 

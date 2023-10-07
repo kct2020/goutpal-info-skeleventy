@@ -27,6 +27,10 @@ tags:
 <p>Many gout sufferers turn to controlling purine consumption as their main uric acid cure. Or as a contributory control in their uric acid treatment package. So if you're starting your purine control, or adjusting it, you need to discuss targets with your doctor.</p>
 <p><code>Havlik, J., Plachy, V., Fernandez, J. and Rada, V., 2010. Dietary purines in vegetarian meat analogues. Journal of the Science of Food and Agriculture, 90(14), pp.2352-2357.</code></p>
 <p><q cite="https://doi.org/10.1002/jsfa.4089">the sum of more uricogenic adenine (AD) and hypoxanthine (HX) was expressed in mg kg−1 of 100% protein [indicated later in the text as the (AD+HX)–protein ratio], as meat in a normal diet is generally considered as a main protein source and these bases should be seen in relation to protein content. […] the highest sum (AD+HX)–protein ratio, was determined for Lincolnshire veggie sausages (Cauldron, UK), 3492 mg kg−1 and Quorn Bacon style rashers 3079 mg kg−1 (Marlow Foods, UK). Both these values were comparable with beef muscle meat (3196 mg kg−1).</q></p>
+<figure id="image" class="inner">
+<img src="{{ post_image }}" alt="{{ image_alt }}"  width="610" height="377">
+  <figcaption>{{ image_alt }}</figcaption>
+</figure>
 <h2 id="next">Your Quorn and Gout Research</h2>
 If any of these gout studies seem relevant to your Quorn consumption, then discuss them with your doctor. Because you need to apply the findings to your own medical history and aspirations. As part of your patient-physician gout care partnership. You can also look for the latest Quorn articles in your current gout progression phases:<ul>
 <li>1. <a href="https://goutpal.com/blog/gout-causes/">Gout Causes</a></li>

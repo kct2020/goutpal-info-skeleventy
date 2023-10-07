@@ -44,20 +44,6 @@ SUA levels.</q></p>
 </figure>
 <h2 id="next">Your {{ title }} Story</h2>
 <p>Which aspects of {{ topic }} are you interested in? How do you think {{ topic }} might help or hinder your gout?</p>
-<p>Please tell me your {{ topic }} story below.</p>
+<p>Please tell me your {{ topic }} story <a href="https://links.goutpal.com/p/goutpal-links-gout-discussions?a=888958067">in the Gout Forum</a>.</p>
 <p></p><hr>
 Leave {{ title }} to browse the <a href="/blog">{{ site.blog }}</a>.
-<h2 id="comments">{{ title }} Comments</h2>
-<p>Please add your comments below.<br>
-Your feedback options are:</p>
-<ol>
-<li>Add comments below.</li>
-<li>Create a <a href="https://github.com/kct2020/goutpal-info-11ty/issues/new/choose">new issue</a> about any gout research concern that you want to resolve. Or <a href="https://github.com/kct2020/goutpal-info-11ty/issues">join an existing research issue</a>.</li>
-<li>Start a <a href="https://github.com/kct2020/goutpal-com-skeleventy/discussions/new">new discussion</a> about any gout topic that interests you. Or <a href="https://github.com/kct2020/goutpal-com-skeleventy/discussions">join an existing discussion</a>.</li>
-</ol>
-<p>If you are asking a question, it is best to:</p>
-<ol>
-<li>Search for that question in <a href="https://cse.google.com/cse?cof=FORID:0&amp;cx=partner-pub-4857169685716700:9780732506">the GoutPal Search Engine</a> first.</li>
-<li>Choose the most relevant result.</li>
-<li>Refer to that result as you ask your question.</li>
-</ol>

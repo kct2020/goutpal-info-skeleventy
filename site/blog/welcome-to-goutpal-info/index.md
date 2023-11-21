@@ -22,7 +22,7 @@ In particular, I will focus on the responsibilities of gout sufferers as describ
 
 I hope you'll read my reviews of gout science and discuss them with your health professionals. Also, I hope you'll tell me if you want clarification. Or if you want me to review a gout study that I haven't included.
 
-First, check to see if we are already discussing your concerns in <a href="https://github.com/kct2020/goutpal-info-11ty/issues">Gout Library Issues</a>. If not, <a href="https://github.com/kct2020/goutpal-info-11ty/issues/new/choose">raise a new issue</a> to share your questions, experiences, and opinions.
+Please, <a href="https://links.goutpal.com/p/goutpal-links-gout-discussions?a=888958067">ask in the Gout Forum</a>.
 
 ***
 

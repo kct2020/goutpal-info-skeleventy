@@ -1,3 +1,7 @@
+/author/keith/feed/ https://goutpal.info/author/keith/ 301
+/page/3/ https://goutpal.info/blog/ 301
+/foot-care/gout-leaflet https://goutpal.com/6429/running-on-gouty-feet/ 301
+/tag/sua/feed/ https://goutpal.info/tag/sua/ 301
 /tag/msu-monosodium-urate/feed/ https://goutpal.info/tag/msu-monosodium-urate/ 301
 /goutpal-gout-sufferer-organization/ https://goutpal.info/purpose/ 301
 /label/goutpal-researcher/ https://goutpal.info/uric-acid-testing-smartphone/ 301
@@ -8,6 +12,6 @@
 /category/* https://goutpal.info/blog/ 301
 /author/* https://goutpal.info/blog/ 301
 /site/* https://goutpal.info/about/ 301
-/cdn-cgi/challenge-platform/h* https://goutpal.info/blog/ 301
+/cdn-cgi* https://goutpal.info/blog/ 301
 /gluten-and-uric-acid/* https://goutpal.info/blog/bread-uric-acid-research/ 301
 /about/purpose/* https://goutpal.info/purpose/ 301

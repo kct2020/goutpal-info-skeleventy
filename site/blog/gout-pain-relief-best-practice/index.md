@@ -65,7 +65,7 @@ The guideline strongly recommends that you choose between low-dose colchicine, N
 
 As you see, there are two special cases where you might be unable to choose any of those. Because they might not be suitable for you. Or you might be unable to take oral medicine. Finally, the guideline suggests that the best aditional treatment is to apply ice to your swollen joints. However, you should discuss the issues I raise in <a href="https://goutpal.com/3099/heat-or-ice-for-gout-relief/">Heat Or Ice For Gout Relief</a> with your doctor.
 
-Finally, do you have any questions, experiences, or opinions about guidelines for gout pain relief? First, check to see if we are already discussing your concerns in <a href="https://github.com/kct2020/goutpal-info-11ty/issues">Gout Library Issues</a>. If not, <a href="https://github.com/kct2020/goutpal-info-11ty/issues/new/choose">raise a new issue</a> to share your thoughts.
+Finally, do you have any questions, experiences, or opinions about guidelines for gout pain relief? First, check to see if we are already discussing your concerns <a href="https://links.goutpal.com/p/goutpal-links-gout-discussions?a=888958067">in the Gout Forum</a>.
 
 ***
 

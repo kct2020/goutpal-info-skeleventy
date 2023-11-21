@@ -36,7 +36,7 @@ The uric acid treatment recommendations are spread across 5 sections. So I will 
 
 Please keep returning to read the detailed reviews as I publish them.
 
-Finally, do you have any questions, experiences, or opinions about <b>guidelines</b> for uric acid treatment? First, check to see if we are already discussing your concerns in <a href="https://github.com/kct2020/goutpal-info-11ty/issues">Gout Library Issues</a>. If not, <a href="https://github.com/kct2020/goutpal-info-11ty/issues/new/choose">raise a new issue</a> to share your thoughts. Please note that these links are for improving this page and related gout guideline facts. So if you want to discuss your personal treatment you should use <a href="https://github.com/kct2020/goutpal-com-skeleventy/discussions">GoutPal Discussions</a>.
+Finally, do you have any questions, experiences, or opinions about <b>guidelines</b> for uric acid treatment? If so, please <a href="https://links.goutpal.com/p/goutpal-links-gout-discussions?a=888958067">ask in the Gout Forum</a>.
 
 
 ***
